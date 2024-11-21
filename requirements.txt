@@ -1,4 +1,3 @@
-opencv
 opencv-python-headless
 pillow
 numpy
