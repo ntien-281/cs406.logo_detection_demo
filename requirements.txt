@@ -1,6 +1,5 @@
-opencv-python-headless
+streamlit
+ultralytics
 pillow
 numpy
-ultralytics
-streamlit
-libgl1
+opencv-python-headless
